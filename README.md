@@ -14,7 +14,6 @@ In this task, I have:
 
 - `Task_5_Neural_Style_Transfer.ipynb`: The complete Colab notebook.
 - `stylized_output.jpg`: Example stylized image output.
-- `sample_images/`: Folder containing the content and style images.
 - `.gitignore`: Skips unnecessary files in version control.
 - `README.md` File
 
